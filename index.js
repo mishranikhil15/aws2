@@ -4,7 +4,7 @@ const app= express();
 
 
 app.get("/search",(req,res)=>{
-    res.send("welcome to my server2");
+    res.send("welcome to my server3");
 })
 
 app.listen(4100,async()=>{
